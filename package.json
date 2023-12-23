@@ -1,0 +1,19 @@
+{
+  "name": "my-first",
+  "version": "1.0.0",
+  "description": "This is my first backend code implementation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "server.js"
+  ],
+  "author": "areeb",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
